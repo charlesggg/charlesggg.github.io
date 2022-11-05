@@ -1,10 +1,10 @@
-baseurl: "/dizer-jekyll" # the subpath of your site, e.g. /blog
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://charlesggg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+title: "My Non-Profit"
 email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
+phone: "+11 123 456 5523"
 address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
+author: "Chelsea & Claire"
 description: >- # this means to ignore newlines
   Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
 logo: "/assets/images/logo.png"
