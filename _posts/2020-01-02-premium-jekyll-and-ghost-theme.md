@@ -4,7 +4,7 @@ title: "Losing Tennis Games"
 date: 2023-04-12 23:37:13 +0600
 tags: development
 categories: [development]
-post_image: "/assets/images/blog/baseline.png"
+post_image: "/assets/images/blog/position.png"
 author: "Charles"
 ---
 
