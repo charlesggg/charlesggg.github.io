@@ -14,6 +14,8 @@ author: "Charles"
 </p>
 <p>When hitting cross court, the net is lower, and court is longer. It is much easier to time, and you need to run less. More importantly, you are tempting your opponent to make errors. 
 </p>
+<div>
 <p>Just remember this image when you try to hit a winner
 </p>
-<img src="/assets/images/blog/winner.png"/>
+<img align="center" src="/assets/images/blog/winner.png">
+</div>
