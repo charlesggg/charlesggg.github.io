@@ -16,6 +16,6 @@ author: "Charles"
 </p>
 <p>Just remember this image when you try to hit a winner
 </p>
-<div class="blog-img position-relative mt-5 mb-5">
+<div style="text-align: center;">
 <img align="center" src="/assets/images/blog/winner.png">
 </div>
