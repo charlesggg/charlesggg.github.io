@@ -16,6 +16,6 @@ author: "Charles"
 </p>
 <p>Just remember this image when you try to hit a winner
 </p>
-<div style="text-align: center;">
-<img align="center" src="/assets/images/blog/winner.png">
+<div class="img-fluid w-100" style="text-align: center;">
+<img class="img-fluid w-100" align="center" src="/assets/images/blog/winner.png">
 </div>
