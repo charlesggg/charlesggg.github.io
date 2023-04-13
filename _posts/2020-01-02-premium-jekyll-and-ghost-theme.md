@@ -16,4 +16,4 @@ author: "Charles"
 </p>
 <p>Just remember this image when you try to hit a winner
 </p>
-<img src="winner.png"/>
+<img src="/assets/images/blog/winner.png"/>
