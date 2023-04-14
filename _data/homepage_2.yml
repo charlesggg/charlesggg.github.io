@@ -13,7 +13,7 @@ services:
   enable : true
   bg_image : "/assets/images/bg/feature-bg.png"
   item:
-  - name : "Brand Design"
+  - name : "Software Design"
     icon : "ti-ruler-pencil"
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
     

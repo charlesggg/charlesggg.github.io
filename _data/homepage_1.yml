@@ -12,7 +12,7 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
+- title : "Software Design"
   icon : "ti-ruler-pencil"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
