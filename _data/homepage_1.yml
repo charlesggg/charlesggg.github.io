@@ -14,15 +14,15 @@ hero_area:
 services:
 - title : "Software Design"
   icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Design beautiful software"
 
 - title : "Tennis"
   icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Improve tennis, improve life."
 
-- title : "Creative Design"
+- title : "Communication"
   icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Say it as you mean it."
 
 
 ########################### Testimonial ###########################
