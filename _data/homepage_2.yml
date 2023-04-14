@@ -17,7 +17,7 @@ services:
     icon : "ti-ruler-pencil"
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
     
-  - name : "Seo & Marketing"
+  - name : "Tennis"
     icon : "ti-announcement"
     content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
     
