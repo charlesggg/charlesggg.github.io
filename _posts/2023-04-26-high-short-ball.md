@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't hit with power?"
+title: "Handle high short ball"
 date: 2023-04-26 23:57:13 +0600
 tags: development
 categories: [development]
