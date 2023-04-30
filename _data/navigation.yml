@@ -10,11 +10,11 @@ main:
     url: /
     submenu:
       - name: Design
-        url: /services.html
+        url: /design.html
       - name: Tennis
-        url: /portfolio-1.html
+        url: /blog-1.html
       - name: Communication
-        url: /portfolio-2.html
+        url: /communication.html
   - name: Contact
     url: /contact.html
 
