@@ -3,7 +3,7 @@ hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "MY NAME IS Charles Guo"
   title : "I am a software engineer <br>manager <br>from silicon valley."
-  content : "Dear to dream!"
+  content : "Dare to dream!"
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
